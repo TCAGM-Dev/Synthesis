@@ -1,0 +1,10 @@
+# Project place files
+/*.rbxlx
+/*.rbxl
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Packages folder
+Packages/
